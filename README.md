@@ -1,4 +1,4 @@
-# Demo Spring Boot 3 and Java 21
+# Demo - Spring Boot 3 - Java 21 - Keycloak 22+
 
 This project demonstrates how to secure a Spring Boot application using Keycloak, a powerful open-source Identity and Access Management tool.
 
@@ -11,7 +11,7 @@ This project demonstrates how to secure a Spring Boot application using Keycloak
 ## Prerequisites
 
 - Spring Boot 3.2.0-RC2
-- Java 21+
+- Java 21
 - Keycloak Server 22+
 - Gradle
 
